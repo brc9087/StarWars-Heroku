@@ -1,7 +1,7 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
+  "description": "",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
@@ -15,6 +15,5 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC",
-  "keywords": []
+  "license": "ISC"
 }
